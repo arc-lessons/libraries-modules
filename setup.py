@@ -15,7 +15,7 @@ setuptools.setup(
     py_modules=['superhero',
                 'superhero2',
                 'morse_answer',
-                'check_libraries-modules'],
+                'check_libraries_modules'],
     #install_requires = [],
     #entry_points={},
     author_email='rjg20@Bath.ac.uk',
